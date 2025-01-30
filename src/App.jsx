@@ -177,7 +177,7 @@ const Positivus = () => {
                             <div key={index} className="relative">
                                 <img
                                     src="/assets/icons/Line 3.svg"
-                                    className="absolute right-[120px] top-52 lg:-right-16 lg:rotate-0 rotate-90"
+                                    className="absolute right-[120px] top-52 lg:top-0 lg:-right-16 lg:rotate-0 rotate-90"
                                     alt=""
                                 />
 
